@@ -1,2 +1,2 @@
 ![logo](https://github.com/Saavanx/saavan-portfolio/blob/main/tenor.gif)<br>
-[SAAVANX](https://saavanx.xyz)
+<h1 align="center"> [SAAVANX](https://saavanx.xyz)
