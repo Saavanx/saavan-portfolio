@@ -1,2 +1,1 @@
-# saavan-portfolio
-https://github.com/Saavanx/saavan-portfolio/blob/main/tenor.gif
+![logo](https://github.com/Saavanx/saavan-portfolio/blob/main/tenor.gif)
